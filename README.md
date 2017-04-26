@@ -9,3 +9,8 @@ RF69 and RF95 wireless tranmission chip
 FREERTOS implemented
 Alexnet were used to CNN
 ROS in Jetson TX1 with ZED stereo Camera
+
+For now
+Transmitter.c is for the LORA that located in the controller
+Receiver.c is for the Lora that located in the robot.
+TEsting chip is teensy running at 180mhz.
